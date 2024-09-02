@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Neeraj Singh Jeena</h1>
+<h1 align="center">Hi 👋, I'm Neeraj Jeena</h1>
 <h3 align="center">A passionate developer interested in Web3 technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-singhjeena&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-singhjeena" /> </p>
 
-- 🌱 I’m currently learning **Node.js and React**
+- 🌱 I’m currently learning **python with DSA**
 - 👀 I’m interested in **Web3**
 - 💬 Ask me about **JavaScript, Node.js, React, C, C++, Python**
 - 📫 How to reach me **neeraj2005jeena@gmail.com**
