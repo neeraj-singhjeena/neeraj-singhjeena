@@ -1,37 +1,100 @@
 <h1 align="center">Hi 👋, I'm Neeraj Jeena</h1>
-<h3 align="center">A passionate developer interested in Web3 technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-singhjeena&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-singhjeena" /> </p>
+<h3 align="center">Full-Stack Developer | MERN Stack | DSA Enthusiast</h3>
 
-- 🌱 I’m currently learning **python with DSA**
-- 👀 I’m interested in **Web3**
-- 💬 Ask me about **JavaScript, Node.js, React, C, C++, Python**
-- 📫 How to reach me **neeraj2005jeena@gmail.com**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I can solve a Rubik's Cube in under one minute**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Learning+Python+%26+DSA;Exploring+Web3+Technologies" alt="Typing SVG" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neeraj-singhjeena&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 💻 I'm a **Full-Stack Developer** focused on building modern web applications.
+* 🌱 Currently learning **Python with Data Structures & Algorithms**.
+* ⚛️ I enjoy working with **React, Node.js and the MERN Stack**.
+* 👀 I'm interested in exploring **Web3 technologies**.
+* 💬 Ask me about **JavaScript, React, Node.js, C, C++, Python & MongoDB**.
+* 🎯 My goal is to continuously improve my **development and problem-solving skills**.
+* ⚡ Fun fact: **I can solve a Rubik's Cube in under one minute!**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
 <p align="left">
-<a href="https://linkedin.com/in/neeraj-singhjeena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neeraj-singhjeena" height="30" width="40" /></a>
-<a href="https://twitter.com/neeraj_singhjeena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neeraj_singhjeena" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj-singhjeena&show_icons=true&locale=en&layout=compact" alt="neeraj-singhjeena" /></p>
+### Backend & Database
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj-singhjeena&show_icons=true&locale=en" alt="neeraj-singhjeena" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj-singhjeena&" alt="neeraj-singhjeena" /></p>
+### Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neeraj-singhjeena&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj-singhjeena&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=neeraj-singhjeena&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeraj-singhjeena&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/neeraj-singhjeena">
+  <img src="https://img.shields.io/badge/LinkedIn-Neeraj%20Jeena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:neeraj2005jeena@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/neeraj_singhjeena">
+  <img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">💻 Code. Learn. Build. Repeat.</h3>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile!</i> 👨‍💻
+</p>
